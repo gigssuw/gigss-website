@@ -22,7 +22,7 @@ image:
 show_meta: true
 ~~~
 
-If you don't want to show metadata, it's simple again:
+If you don't want to show metadata, it's simple again: this is an example
 
 ~~~
 show_meta: false
